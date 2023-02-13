@@ -1,0 +1,8 @@
+image: jcabrero/hefactory:gitpod
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
+    - golang.go
+    - eamodio.gitlens
+    - ms-python.python
+    - ms-vscode.makefile-tools
