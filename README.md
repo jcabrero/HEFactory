@@ -29,12 +29,21 @@ Please check out the `examples` to learn more on how to use HEFactory.
 
 ## Installation
 
-The package can be installed through `wheel`, `docker` or building your own `docker` image.
+The package can be installed through `wheel`, `docker` or building your own `docker` image. The recommended option is through `docker`.
 
 Furthermore, we provide `devcontainer` and `gitpod.io` compatibility to test the software.
 
 ### Wheel Installation
 
+For the wheel installation, the following packages are required:
+```
+numpy
+tensorflow
+pulp
+scikit-fuzzy
+matplotlib
+```
+To install *HEFactory*:
 ```
 pip3 install dist/HEFactory-0.0.1-cp310-cp310-linux_x86_64.whl
 ```
