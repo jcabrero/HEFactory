@@ -34,6 +34,5 @@ ppdl_demo/data/
 research/adapted_nn/model/*
 boar/bin/*
 HEFactory.egg-info/*
-dist/*
 build/*
 *.cpp
