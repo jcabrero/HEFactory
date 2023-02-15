@@ -44,13 +44,25 @@ scikit-fuzzy
 matplotlib
 ```
 To install *HEFactory*:
+On x86-64:
 ```
-pip3 install dist/HEFactory-0.0.1-cp310-cp310-linux_x86_64.whl
+pip3 install dist/linux_amd64/HEFactory-0.0.1-cp310-cp310-linux_x86_64.whl
 ```
 
-### Docker Image
+On ARM64:
 ```
-docker run -it --rm jcabrero/hefactory:latest bash
+pip3 install dist/linux_arm64/HEFactory-0.0.1-cp310-cp310-linux_aarch64.whl
+```
+### Docker Image
+
+For x86-64:
+```
+docker run -it --rm jcabrero/hefactory:amd64 bash
+```
+
+For ARM based processors:
+```
+docker run -it --rm jcabrero/hefactory:arm64 bash
 ```
 
 #### Building Docker Image from Scratch
