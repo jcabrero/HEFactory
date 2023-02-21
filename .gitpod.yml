@@ -1,4 +1,4 @@
-image: jcabrero/hefactory:gitpod
+image: jcabrero/hefactory:latest
 vscode:
   extensions:
     - dbaeumer.vscode-eslint
