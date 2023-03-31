@@ -1,4 +1,4 @@
-[:house:](/docs/README.md) [:arrow_left:](/docs/README.md)
+[:house: Home](/docs/README.md) [:arrow_left: Back](/docs/README.md)
 ###  Advanced Operations
 
 This section describes advanced operations supported by the engine such as:

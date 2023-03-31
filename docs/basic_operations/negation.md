@@ -1,4 +1,4 @@
-[:house:](/docs/README.md) [:arrow_left:](/docs/basic_operations/README.md)
+[:house: Home](/docs/README.md) [:arrow_left: Back](/docs/basic_operations/README.md)
 
 #### Negation Operations
 

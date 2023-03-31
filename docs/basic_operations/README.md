@@ -1,4 +1,4 @@
-[:house:](/docs/README.md) [:arrow_left:](/docs/README.md)
+[:house: Home](/docs/README.md) [:arrow_left: Back](/docs/README.md)
 ###  Basic Operations
 
 The basic operations allowed by HEFactory are: 

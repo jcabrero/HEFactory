@@ -1,4 +1,4 @@
-[:house:](/docs/README.md) [:arrow_left:](/docs/README.md)
+[:house: Home](/docs/README.md) [:arrow_left: Back](/docs/README.md)
 ###  Getting Started
 
 HEFactory acts as the combination of two elements: *Tapir* and *Boar*.
@@ -63,7 +63,7 @@ The complete example can be found below:
         for power, coef in enumerate(polynomial):
             res += coef * (polynomial ** power)
         cgm.output(res)
-        
+
     b = Boar(verbose=True)
     b.launch()
     res_dic = boar.grab_results()

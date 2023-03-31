@@ -4,8 +4,7 @@ This document aims to describe the basic user side functionality of HEFactory th
 
 ## Table of Contents
 
-- [Getting Started](/docs/getting_started/readme.md)
-    - [CGManager](/docs/getting_started/cgmanager.md)
+- [Getting Started](/docs/getting_started/README.md)
 - [Basic Operations](/docs/basic_operations/README.md)
     - [Addition](/docs/basic_operations/addition.md)
     - [Subtraction](/docs/basic_operations/subtraction.md)
