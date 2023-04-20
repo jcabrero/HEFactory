@@ -19,3 +19,6 @@ This document aims to describe the basic user side functionality of HEFactory th
     - [Square Root](/docs/advanced_operations/square_root.md)
     - [Matrix-Vector Multiplication](/docs/advanced_operations/matrix_vector_multiplication.md)
     - [Vector Accumulation](/docs/advanced_operations/vector_accumulation.md)
+
+- [Deep Learning](/docs/deep_learning/README.md)
+    - [Deep Learning Inference with Dahut](/docs/deep_learning/deep_learning_inference.md)
